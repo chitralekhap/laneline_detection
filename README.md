@@ -68,6 +68,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 - OpenCV documentation and tutorials.
 - Python community for support and resources.
 
----
-
-This README should give clear guidance to users or developers interested in understanding, running, or modifying your lane line detection project.
